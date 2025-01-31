@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código fuente del video demostración del lema:
 
-<iframe width="1068" height="601" src="https://www.youtube.com/embed/kbb-D3ZG_jo" title="Lema de Hensel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Video](https://img.youtube.com/vi/kbb-D3ZG_jo/maxresdefault.jpg)](https://www.youtube.com/watch?v=kbb-D3ZG_jo)
 
 Créditos a:
 
